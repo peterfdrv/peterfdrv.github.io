@@ -3,6 +3,21 @@ h1 {
   
 }
 
+a {
+  font-family: 'Sen', sans-serif;
+  color: green;  
+  text-decoration: none;
+  font-size: 25px;
+  display: block;
+  margin-bottom: 20px;
+  
+
+}
+
+a:hover {
+  color:lime;
+}
+
 .container{
   
   max-width: 600px;
